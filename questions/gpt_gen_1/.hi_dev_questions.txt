@@ -1,0 +1,21 @@
+- Write a Python script to extract data from a REST API endpoint and store it in a database.
+    This question tests your ability to build ETLs against REST endpoints, which is a required skill for the role.
+- Write a Python function to connect to an AWS S3 bucket and download a file.
+    This question tests your familiarity with AWS services, which is also a required skill for the role.
+- Write a Python script to transform data from one database schema to another.
+    This question tests your ability to build and maintain production data pipelines, which is a key responsibility of the role.
+- Write a Python function to calculate the average of a column in a large dataset.
+    This question tests your SQL skills, which are also required for the role.
+- Write a Python script to read data from a CSV file and insert it into a PostgreSQL database.
+    This question tests your ability to work with different types of data sources and databases, which is a valuable skill for a data engineer.
+- Write a Python function to handle errors when reading data from a REST API endpoint.
+    This question tests your ability to troubleshoot and handle errors in a production data pipeline.
+- Write a Python script to monitor a database for changes and trigger an alert if certain conditions are met.
+    This question tests your ability to build and maintain automated data tracking systems, which is a key responsibility of the role.
+- Write a Python function to handle data updates in a real-time streaming pipeline.
+    This question tests your ability to work with real-time data and streaming systems, which is a valuable skill for a data engineer.
+- Write a Python script to extract data from multiple sources and consolidate it into a single database.
+    This question tests your ability to work with complex data sources and build efficient ETLs.
+- Write a Python function to optimize a database query that is taking too long to execute.
+    This question tests your ability to optimize database performance, which is a critical skill for a data engineer.
+

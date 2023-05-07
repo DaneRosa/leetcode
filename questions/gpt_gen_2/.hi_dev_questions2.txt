@@ -1,0 +1,30 @@
+
+1. Write a function that takes in a list of integers and returns the sum of all even numbers in the list.
+- This question assesses the candidate's ability to write a function, manipulate lists, and use conditional statements.
+
+2. Write a function that takes in a string and returns the reverse of the string.
+- This question assesses the candidate's ability to write a function and manipulate strings.
+
+3. Write a function that takes in two lists of integers and returns a new list containing the common elements between the two lists.
+- This question assesses the candidate's ability to write a function, manipulate lists, and use conditional statements.
+
+4. Write a function that takes in a list of strings and returns the longest string in the list.
+- This question assesses the candidate's ability to write a function, manipulate lists, and use conditional statements.
+
+5. Write a function that takes in a string and checks if it is a palindrome.
+- This question assesses the candidate's ability to write a function, manipulate strings, and use conditional statements.
+
+6. Write a function that takes in a list of integers and returns the second smallest number in the list.
+- This question assesses the candidate's ability to write a function, manipulate lists, and use conditional statements.
+
+7. Write a function that takes in a dictionary of grades and returns the average grade.
+- This question assesses the candidate's ability to write a function, manipulate dictionaries, and perform mathematical calculations.
+
+8. Write a function that takes in a list of integers and returns a new list with the duplicates removed.
+- This question assesses the candidate's ability to write a function, manipulate lists, and use conditional statements.
+
+9. Write a function that takes in a string and removes all vowels from the string.
+- This question assesses the candidate's ability to write a function, manipulate strings, and use conditional statements.
+
+10. Write a function that takes in a list of integers and returns a new list with the even numbers sorted in ascending order, followed by the odd numbers sorted in descending order.
+- This question assesses the candidate's ability to write a function, manipulate lists, and use conditional statements.
