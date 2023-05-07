@@ -23,18 +23,13 @@ Output: 4
 '''
 class Solution:
     def searchInsert(self, nums: List[int], target: int) -> int:
-        if target in nums:
-             
-            a = nums.index(target)
-            return a 
-        else:
-            for i,v in enumerate(nums):
-                if v > target:
-                    return i -1
-                else:
-                    if len(nums) > target:
-                        return target -1
-                    else:
-                        return len(nums)
-                
+        n = 0
+        for i in range(len(nums)):
+            if target not in nums:
+                nums.append(target)
+                nums.sort()
+                n = nums.index(target)
+            else:
+                n = nums.index(target)
+        return n
     
