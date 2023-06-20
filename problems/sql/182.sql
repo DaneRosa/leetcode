@@ -41,11 +41,11 @@ Accepted
 499.5K
 Submissions
 */
-with a as (
-select email as Email, count(*) 
-from Person
 
-group by email
-having count(*) >1
+with a as (
+    select distinct(email), count(email) from Person
+    group by 1
+    having count(email) > 1
 )
-select Email from a
+
+select email as Email from a
